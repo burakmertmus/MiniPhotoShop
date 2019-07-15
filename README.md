@@ -19,5 +19,6 @@
  7. **Histogram Çizdirme**
     - Renkli Histogram
     - Gri histogram
- 8) **Resmi Kaydetme**
+ 8. **İLk Fotoğrafı geri getirme ve değişiklikleri ileri geri alma**
+ 9. **Fotoğrafı Kaydetme**
  
