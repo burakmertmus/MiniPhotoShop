@@ -1,5 +1,0 @@
-MiniPhotoShop
--------------
-.Projenin fonksiyonları
-1) Dosyadan Resmi alma
-2) Dao
