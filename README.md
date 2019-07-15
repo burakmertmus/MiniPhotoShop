@@ -1,10 +1,10 @@
 # MiniPhotoShop
 
 **Projenin fonksiyonları**
- 1. Dosyadan Fotoğraf alma
- 2. Renk Değiştirme
-    -Negatif
-    -Gri Tonlama
+1. Dosyadan Fotoğraf alma
+2. Renk Değiştirme
+   -Negatif
+   -Gri Tonlama
  3. Döndürme ve Aynalama
     -Sağa Çevirme
     -Sola Çevirme
