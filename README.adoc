@@ -1,5 +1,6 @@
-== MiniPhotoShop
+MiniPhotoShop
+-------------
 
-===Projenin fonksiyonları
-.Dosyadan Resmi alma
-.
+.Projenin fonksiyonları
+*Dosyadan Resmi alma
+*
